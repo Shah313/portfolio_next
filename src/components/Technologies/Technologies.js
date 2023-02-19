@@ -43,8 +43,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Server-Side Rendering</ListTitle>
           <ListParagraph>
-             <br />
-            Experience with Next.js
+             
+          Experience with <br />
+           Next.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
