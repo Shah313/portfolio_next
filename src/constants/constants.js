@@ -3,7 +3,7 @@ export const projects = [
     title: "Khao-Piyo",
     description:
       "Discover a world of delicious cuisine with my latest React.js food website. Browse a range of food categories, filter search results by food name, and indulge in the ultimate food experience. Come taste the flavor with my comprehensive and user-friendly food platform.",
-    image: "/images/1.png",
+
     tags: ["React", "Jsx", "CSS"],
     source: "https://shah313.github.io/khao-piyo/",
 
@@ -14,7 +14,7 @@ export const projects = [
     title: "Todo-App",
     description:
       "A user-friendly and efficient Todo App allowing you to add, delete, edit and filter tasks based on their completion status. The app utilizes local storage to ensure your to-do list is saved and accessible even after a page refresh. Streamline your daily tasks and stay organized with this convenient Todo App.",
-    image: "/images/2.png",
+  
     tags: ["React", "LocalStorage"],
     source: "https://shah313.github.io/Todo-app/",
 
