@@ -43,7 +43,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Server-Side Rendering</ListTitle>
           <ListParagraph>
-            Experience with <br />
+             <br />
             Experience with Next.js
           </ListParagraph>
         </ListContainer>
